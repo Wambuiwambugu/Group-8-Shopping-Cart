@@ -1,0 +1,20 @@
+.formDiv {
+    box-shadow: 0 2px 4px rgb(5, 60, 5);
+    padding: 20px;
+    
+    
+}
+#input1,#input2 {
+    margin-bottom: 20px;
+    width: 70%;
+    padding: 12px;
+    
+}
+#button {
+    background-color: rgb(47, 126, 47);
+    color: white;
+}
+#button:hover {
+    background-color: rgb(16, 86, 16);
+    
+}

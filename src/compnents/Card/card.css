@@ -1,0 +1,26 @@
+.card {
+    display: block;
+    border: none;
+    outline: 1px solid black;
+    border-radius: 4px;
+    padding: 30px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 4px rgb(5, 60, 5);
+    background-color: black;
+  }
+  img {
+    
+    max-height: 300px;
+    /* border: 20px solid rgb(43, 91, 43); */
+    border-radius: 10px;
+
+  }
+  h2 {
+    font-family: sans-serif;
+    color: white;
+  }
+
+  p {
+    font-family: sans-serif;
+    color: white;
+  }
